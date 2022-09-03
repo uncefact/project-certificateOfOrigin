@@ -1,11 +1,11 @@
-# project-certificateOfOrigin
+# CertificateOfOrigin
 Origin certificate vocabulary and schema for use in VCs.
 
 ## Links
 
-[GitHub](https://github.com/uncefact/project-certificateOfOrigin)
+[GitHub](https://github.com/uncefact/schema-certificateOfOrigin)
 
-[Issues](https://github.com/uncefact/project-certificateOfOrigin/issues)
+[Issues](https://github.com/uncefact/schema-certificateOfOrigin/issues)
 
 [Models](https://jargon.sh/user/unece/project-certificateOfOrigin)
 
